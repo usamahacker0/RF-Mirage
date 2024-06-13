@@ -35,5 +35,4 @@ Follow secure deployment and usage guidelines as documented in our User Guide.
 Acknowledgements
 We thank the following individuals and organizations for their contributions to improving the security of RF-Mirage:
 
-Contributor **UsamaHacker0**
 Organization **UsamaHacker0**
