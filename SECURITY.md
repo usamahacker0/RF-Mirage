@@ -12,7 +12,7 @@ RF-Mirage is a project intended solely for educational and cybersecurity researc
 
 4. **User Responsibility:** You, as the user, are solely responsible for your actions and any consequences that may arise from using RF-Mirage. Use this software responsibly and ethically.
 
-If you have any questions or need further information about the legal and ethical use of RF-Mirage, please contact us at [contact@yourdomain.com].
+If you have any questions or need further information about the legal and ethical use of RF-Mirage, please contact us at [usamahacker0@gmail.com].
 
 ## Reporting a Vulnerability
 
